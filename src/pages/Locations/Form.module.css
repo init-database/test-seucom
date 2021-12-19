@@ -1,0 +1,18 @@
+.location-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ver-gap {
+    height: 2rem;
+}
+
+.hor-gap {
+    margin: 0 5px;
+    display: inline-block;
+}
+
+.action-button-wrapper {
+    text-align: right;
+}
